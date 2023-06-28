@@ -1,0 +1,13 @@
+name: DimensionConverter
+version: 0.0.1
+api: 5.0.0
+src-namespace-prefix: DavyCraft648\DimensionConverter
+main: DavyCraft648\DimensionConverter\Main
+author: DavyCraft648
+commands:
+  convertdim:
+    permission: dimensionconverter.command.convertdim
+permissions:
+  dimensionconverter.command.convertdim:
+    default: op
+website: https://github.com/DavyCraft648/DimensionConverter
